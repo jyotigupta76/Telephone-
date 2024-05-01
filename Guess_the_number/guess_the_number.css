@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    text-align: center;
+    
+}
+
+button{
+    background-color: aqua;
+    padding: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: solid 2px black;
+}
+
+input{
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    width: 15rem;
+}
+.start_game:disabled{
+    cursor: not-allowed;
+}
+
+.enter_number{
+    font-size: 1.5rem;
+    border: solid 2px black;
+}
+
+.buton{
+    margin-top: 10px;
+}
+
+
