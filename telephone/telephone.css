@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+input{
+    margin-top: 30px;
+    font-size: 1.5rem;
+    margin-bottom: 7px;
+}
